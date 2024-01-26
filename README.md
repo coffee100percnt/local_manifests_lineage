@@ -1,6 +1,6 @@
 ## Download
 ```bash
-curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/Realme-Pad-Dev/local_manifests/master/manifest.xml --create-dirs
+curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/coffee100percnt/local_manifests/master/manifest.xml --create-dirs
 ```
 ## Sync
 ```bash
